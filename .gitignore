@@ -4,7 +4,7 @@
 */cache/*
 !system/cache/*
 !*/cache/index.html
-!*/cache/.htaccess
+!*/cache/.htaccess 
 
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
@@ -16,3 +16,5 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+application/config/config.php
+application/config/database.php
